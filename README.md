@@ -1,4 +1,3 @@
-👋
 # About Me
 
 Frontend developer expanding into full-stack development. I enjoy building practical applications and contributing to open-source projects when I can.
